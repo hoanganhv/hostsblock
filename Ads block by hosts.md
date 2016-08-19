@@ -1,0 +1,97 @@
+##
+# Host Database
+#
+# localhost is used to configure the loopback interface
+# when the system is booting.  Do not change this entry.
+##
+127.0.0.1	localhost
+255.255.255.255	broadcasthost
+::1             localhost
+127.0.0.1 Les-MacBook-Pro.local # added by Apache Friends XAMPP
+
+127.0.0.1 savvy.tung
+127.0.0.1 vmcp.dev
+127.0.0.1 laravel.vmcp.dev
+127.0.0.1 doms.dev
+127.0.0.1 sftp-site.dev
+192.168.34.128 sftp-server
+
+# Adobe Blocker
+127.0.0.1 lmlicenses.wip4.adobe.com
+127.0.0.1 lm.licenses.adobe.com
+127.0.0.1 na1r.services.adobe.com
+127.0.0.1 hlrcv.stage.adobe.com
+127.0.0.1 practivate.adobe.com
+127.0.0.1 activate.adobe.com
+
+# ads blocker
+127.0.0.1 vdoupdate.com
+127.0.0.1 network.yearads.com
+127.0.0.1 mackeeperapp3.mackeeper.com
+127.0.0.1 mackeeper.com
+127.0.0.1 c1.popads.net
+127.0.0.1 popads.net
+127.0.0.1 serve.popads.net
+127.0.0.1 cs.adxpansion.com
+127.0.0.1 adxpansion.com
+127.0.0.1 ads.adxpansion.com
+127.0.0.1 syndication.exoclick.com
+127.0.0.1 ads.exoclick.com
+127.0.0.1 exoclick.com
+127.0.0.1 dispatch.lite.adlesse.com
+127.0.0.1 media.hw.adxpansion.com
+127.0.0.1 prwidgets.com
+127.0.0.1 prstatics.com
+127.0.0.1 static.plugrush.com
+127.0.0.1 whos.amung.us
+127.0.0.1 www.adultblogtoplist.com
+127.0.0.1 cdn.popcash.net
+127.0.0.1 credite-card.com
+127.0.0.1 s10.histats.com
+127.0.0.1 s4.histats.com
+127.0.0.1 histats.com
+127.0.0.1 track.sitetag.us
+127.0.0.1 apple.com-secured.website
+127.0.0.1 cleaningformac.com
+127.0.0.1 camp999.com
+127.0.0.1 veteran-safe4u.com
+127.0.0.1 creative.las01.wwwpromoter.com
+127.0.0.1 dtrk.slimcdn.com
+127.0.0.1 tnaflix1.com
+127.0.0.1 cdnfiber.com
+127.0.0.1 newartspy.link
+127.0.0.1 mac.apple.com-authorised.online
+127.0.0.1 mackeeper.com
+127.0.0.1 mackeeperapp.mackeeper.com
+127.0.0.1 adv.videomega.tv
+127.0.0.1 irecommend.name
+127.0.0.1 vothanh3d.com
+127.0.0.1 bid.las01.wwwpromoter.com
+127.0.0.1 infoyours.info
+127.0.0.1 www.masphones.com
+127.0.0.1 cleaningformac.com
+127.0.0.1 nativeask.com
+127.0.0.1 xml-feed.xmladserver.com
+127.0.0.1 zu1.delta-boa.com
+127.0.0.1 ilovemobi.com
+127.0.0.1 zh1.delta-boa.com
+127.0.0.1 delta-boa.com
+127.0.0.1 ssp.zryydi.com
+127.0.0.1 go.padsdel.com
+127.0.0.1 padsdel.com
+127.0.0.1 i.track777.com
+127.0.0.1 kim.adultnet.biz
+127.0.0.1 re.directrev.com
+127.0.0.1 onclickads.net
+127.0.0.1 adrunnr.com
+127.0.0.1 imprssng.pro
+127.0.0.1 bongacams.com
+127.0.0.1 clickadu.com
+127.0.0.1 www.jumpers.mobi
+127.0.0.1 www.burningcamel.com
+127.0.0.1 www.watchmygf.net
+127.0.0.1 wct.link
+127.0.0.1 clknsee.com
+127.0.0.1 gold-good4u.com
+127.0.0.1 islandmob.com
+127.0.0.1 fieldpprofile.com
