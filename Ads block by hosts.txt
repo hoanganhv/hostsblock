@@ -95,3 +95,15 @@
 127.0.0.1 gold-good4u.com
 127.0.0.1 islandmob.com
 127.0.0.1 fieldpprofile.com
+127.0.0.1 www.thanpoker.com
+127.0.0.1 cdn.freefarcy.com
+127.0.0.1 delta-boa.com
+127.0.0.1 zo1.delta-boa.com
+127.0.0.1 zj1.delta-boa.com
+127.0.0.1 consolepprofile.com
+127.0.0.1 zt1.delta-boa.com
+127.0.0.1 global.msmtrakk10a.com
+127.0.0.1 xml.pdn-1.com
+127.0.0.1 trackpprofile.com
+127.0.0.1 mackeeperapp2.mackeeper.com
+127.0.0.1 www.onclickpredictiv.com
