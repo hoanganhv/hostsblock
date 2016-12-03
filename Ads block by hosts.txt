@@ -9,14 +9,17 @@
 ::1             localhost
 127.0.0.1 Les-MacBook-Pro.local # added by Apache Friends XAMPP
 
-127.0.0.1 savvy.tung
+127.0.0.1 savvy.dev
+127.0.0.1 savvy.uk.dev
 127.0.0.1 vmcp.dev
 127.0.0.1 laravel.vmcp.dev
 127.0.0.1 doms.dev
 127.0.0.1 sftp-site.dev
-192.168.34.128 sftp-server
+127.0.0.1 hoadang.dev
+127.0.0.1 thepbachai.dev
+192.168.1.204 sftp-server
 
-# Adobe Blocker
+# Adobe blocker
 127.0.0.1 lmlicenses.wip4.adobe.com
 127.0.0.1 lm.licenses.adobe.com
 127.0.0.1 na1r.services.adobe.com
@@ -24,27 +27,38 @@
 127.0.0.1 practivate.adobe.com
 127.0.0.1 activate.adobe.com
 
+# vn ads blocker
+127.0.0.1 iad.eclick.vn
+127.0.0.1 s.eclick.vn
+127.0.0.1 eclick.vn
+127.0.0.1 www.eclick.vn
+127.0.0.1 st.html.polyad.net
+127.0.0.1 go.polyad.net
+127.0.0.1 st.img.polyad.net
+127.0.0.1 customers.fptad.com
+127.0.0.1 fptad.com
+127.0.0.1 www.fptad.com
+
 # ads blocker
 127.0.0.1 vdoupdate.com
 127.0.0.1 network.yearads.com
 127.0.0.1 mackeeperapp3.mackeeper.com
 127.0.0.1 mackeeper.com
 127.0.0.1 c1.popads.net
+127.0.0.1 xseczkcysdvc.com
 127.0.0.1 popads.net
 127.0.0.1 serve.popads.net
 127.0.0.1 cs.adxpansion.com
 127.0.0.1 adxpansion.com
 127.0.0.1 ads.adxpansion.com
-127.0.0.1 syndication.exoclick.com
-127.0.0.1 ads.exoclick.com
-127.0.0.1 exoclick.com
 127.0.0.1 dispatch.lite.adlesse.com
 127.0.0.1 media.hw.adxpansion.com
 127.0.0.1 prwidgets.com
 127.0.0.1 prstatics.com
 127.0.0.1 static.plugrush.com
 127.0.0.1 whos.amung.us
-127.0.0.1 www.adultblogtoplist.com
+127.0.0.1 www.adultblogtoplist.compopcash
+127.0.0.1 popcash.net
 127.0.0.1 cdn.popcash.net
 127.0.0.1 credite-card.com
 127.0.0.1 s10.histats.com
@@ -107,3 +121,83 @@
 127.0.0.1 trackpprofile.com
 127.0.0.1 mackeeperapp2.mackeeper.com
 127.0.0.1 www.onclickpredictiv.com
+127.0.0.1 prjcq.com
+127.0.0.1 ssp.zryydi.com
+127.0.0.1 zb1.zeroredirect12.com
+127.0.0.1 wardparser.info
+# 127.0.0.1 stats.g.doubleclick.net
+# 127.0.0.1 googleads.g.doubleclick.net
+127.0.0.1 terraclicks.com
+127.0.0.1 www.terraclicks.com
+127.0.0.1 track.spzan.com
+127.0.0.1 www.isanalyze.com
+127.0.0.1 yie4zooseif.info
+127.0.0.1 antivirus-mobi.com
+127.0.0.1 instanceyou.info
+127.0.0.1 xmlsearch.anytheengmedia.com
+127.0.0.1 zj1.sierra-fox.com
+127.0.0.1 pocofh.com
+127.0.0.1 xml.olmeramarketing.com
+127.0.0.1 fonderreader.info
+127.0.0.1 adexchangeprediction.com
+127.0.0.1 birdmobster.info
+127.0.0.1 adsro.depositfiles.com
+127.0.0.1 supaads.com
+127.0.0.1 browsesafemac.com
+127.0.0.1 www.firstgame.xyz
+
+127.0.0.1 b.scorecardresearch.com
+127.0.0.1 check.futureupdatesoft4youopen.online
+127.0.0.1 check.futureupdatesoft4youopen.tech
+127.0.0.1 www.free2updatesoft4everopen.top
+
+127.0.0.1 www.adtimaserver.vn
+127.0.0.1 adtimaserver.vn
+127.0.0.1 log.adtimaserver.vn
+127.0.0.1 media.adtimaserver.vn
+127.0.0.1 api.adtimaserver.vn
+127.0.0.1 static.adtimaserver.vn
+127.0.0.1 imp.gammaplatform.com
+127.0.0.1 hb.gammaplatform.com
+127.0.0.1 lg1.logging.admicro.vn
+127.0.0.1 media1.admicro.vn
+127.0.0.1 pson.logging.admicro.vn
+127.0.0.1 go.ad2up.com
+127.0.0.1 media.yomedia.vn
+127.0.0.1 static.yomedia.vn
+127.0.0.1 ds-vn.serving-sys.com
+127.0.0.1 cpx.polyad.net
+127.0.0.1 st.core.polyad.net
+127.0.0.1 st.polyad.net
+127.0.0.1 cp.polyad.net
+127.0.0.1 e.eclick.vn
+127.0.0.1 l.a.eclick.vn
+127.0.0.1 stla.eclick.vn
+127.0.0.1 la.eclick.vn
+127.0.0.1 log.eclick.vn
+127.0.0.1 st.l.a.eclick.vn
+127.0.0.1 pix04.revsci.net
+127.0.0.1 js.revsci.net
+127.0.0.1 safemac.co
+127.0.0.1 maccleanersecurity.com
+127.0.0.1 hilltopads.net
+127.0.0.1 p.ato.mx
+127.0.0.1 www.camdolls.com
+127.0.0.1 media.trafficfactory.biz
+127.0.0.1 www.clicksgear.com
+127.0.0.1 abcdh.pro
+
+
+# ucpm.com
+127.0.0.1 syndication.exoclick.com
+127.0.0.1 ads.exoclick.com
+127.0.0.1 exoclick.com
+
+
+# Google ads
+127.0.0.1 www.google-analytics.com
+127.0.0.1 www.googletagmanager.com
+127.0.0.1 www.googletagservices.com
+127.0.0.1 tpc.googlesyndication.com
+127.0.0.1 googleads.g.doubleclick.net
+127.0.0.1 pagead2.googlesyndication.com
